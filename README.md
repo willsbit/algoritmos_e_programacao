@@ -1,2 +1,1 @@
-# algoritmos_e_programacao
-ELC1022
+# ELC1022 - Algoritmos e Programação
