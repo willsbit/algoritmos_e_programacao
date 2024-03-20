@@ -20,6 +20,7 @@ int main() {
     }
 
     if (a > c) {
+        swap = a;
         a = c;
         c = swap;
     }
