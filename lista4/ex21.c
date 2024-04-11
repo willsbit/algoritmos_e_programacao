@@ -8,7 +8,7 @@ d) O número de dias no ano em que a temperatura foi inferior a média anual
 */
 
 #include <stdio.h>
-#define VEC_SIZE 5 // 365
+#define VEC_SIZE 365
 
 int main() {
     int i, counter=0;
