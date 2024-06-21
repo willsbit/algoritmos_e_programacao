@@ -49,8 +49,5 @@ int main() {
         printf("%d|\t|%d|\t\n", notas_decomposto.valores[i], notas_decomposto.quantidade[i]);
     }
     
-
-
-
     return 0;
 }
